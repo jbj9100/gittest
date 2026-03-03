@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: shopping-dev-backend
   labels:
-    app: shopping-dev-backend123123123
+    app: shopping-dev-backend1231231231111111111111111111111111
 spec:
   replicas: 3
   revisionHistoryLimit: 3
